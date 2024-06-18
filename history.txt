@@ -1,0 +1,190 @@
+    1  For some reason I'm getting the error that "More than one value for the key user.name" when I try to set the user.name for my git account. How can I set it to a single name?
+    2  git -v
+    3  clear
+    4  git config --global user.name "Ganna Gavrylova"For some reason nameI'm getting the error that "More than one value for the key user.name" when I try to set the user.name for my git account. How can I set it to a single name?name
+    5  git config --global user.name
+    6  git config --global user.email gannadeutsch@gmail.com
+    7  git config --global user.email
+    8  git config --global user.emailFor some reason I'm getting the error that "More than one value for the key user.name" when I try to set the user.name for my git account. How can I set it to a single name?
+    9  git -vo
+   10  clear 
+   11  clear 
+   12  or some reason I'm getting the error that "More than one value for the key user.name" when I try to set the user.name for my git account. How can I set it to a single name?
+   13  fgjdsgfjgjds
+   14  djsgsdjjds
+   15  clear  
+   16  or some reason I'm getting the error that "More than one value for the key user.name" when I try to set the user.name for my git account. How can I set it to a single name?
+   17  fgjdsgfjgjds
+   18  djsgsdjjds
+   19  clear  
+   20  code.
+   21  git config --global user.name "Ganna"
+   22  git config -- global user.name "GannaGavrylova"
+   23  git config --global user.email "gannadeutsch@gmail.com"
+   24  git config --global user.name "GannaGavrylova"
+   25  git cat
+   26  git --help
+   27  git config --list --show-origin
+   28  git init
+   29  git config --list --show-origin
+   30  ls -a .git
+   31  git clone https://github.com/GannaGavrylova/anet.git
+   32  pwd
+   33  ls
+   34  cd anet
+   35  touch file2
+   36  git add file2
+   37  git commit -m "adding files"
+   38  git branch -M main
+   39  git remote add origin git@github.com:GannaGavrylova/anet.git
+   40  git push -u origin main
+   41  git push -u origin main
+   42  git remote add origin git@github.com:GannaGavrylova/git_anet.git
+   43  [200~git remote add origin git@github.com:GannaGavrylova/git_anet.git
+   44  git remote add origin git@github.com:GannaGavrylova/anet.git
+   45  git log
+   46  pwd
+   47  mkdir firt_repo
+   48  cd firt_repo
+   49  git init
+   50  git config --list --global
+   51  echo "# test" >> README.md
+   52  git status
+   53  git add README.md 
+   54  git commit -m "first commit"
+   55  git branch -M main
+   56  eval `ssh-agent -s`
+   57  ssh-add C:/Users/ICH/.ssh/id_rsa
+   58  git remote add origin git@github.com:GannaGavrylova/firt_repo.git
+   59  git push -u origin main
+   60  yes
+   61  git remote add origin https://github.com/GannaGavrylova/anet.git
+   62  git push -u origin main
+   63  yes
+   64  git log
+   65  mkdir git_intro
+   66  cd git_intro 
+   67  git init
+   68  cp /path/to/your/Снимок экрана 2024-05-07 152416.png ./Снимок экрана 2024-05-07 152416.png
+   69  cp C:\Users\ICH\Pictures\Screenshots\Снимок экрана 2024-05-07 152416.png
+   70  cp C:\Users\ICH\Pictures\Screenshots\Снимок экрана 2024-05-07 152416.png .
+   71  cp /c/Users/ICH/Pictures/Screenshots/Снимок экрана 2024-05-07 152416.png .
+   72  cp /c/Users/ICH/Downloads/20240603_164931.jpg .
+   73  git add 20240603_164931.jpg
+   74  git commit -m "Added photo"
+   75  git branch -M main
+   76  git remote add origin git@github.com:GannaGavrylova/git_intro.git
+   77  git push -u origin main
+   78  yes
+   79  git push -u origin main
+   80  curl -O https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+   81  cat .gitignor
+   82  curl -O https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+   83  cat .gitignore
+   84  git config --list --global
+   85  git clone https://github.com/GannaGavrylova/bashscripts
+   86  cd bashscripts
+   87  ls -l
+   88  cat 
+   89  cat Amazon
+   90  cat Amazon_Linux_LAMP_MediaWIKI
+   91  mkdir ~/git-branch
+   92  git init ~/git-branch
+   93  cd ~/git-branch
+   94  git remote add origin https://github.com/GannaGavrylova/git_branch.git
+   95  git checkout -b gitignore 
+   96  ls -la
+   97  git add .gitignore
+   98  git add .gitignore
+   99  git add /gitignore
+  100  git add gitignore
+  101  git add .gitignore
+  102  cd
+  103  curl -O https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  104  ls
+  105  ls -la
+  106  $ git checkout -b gitignore
+  107  git checkout -b gitignore
+  108  curl -O https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  109  ls -la
+  110  git add .gitignore
+  111  git commit -m "Add files"
+  112  git push -u origin gitignore
+  113  git push -u origin git_branch.git
+  114  git push -u origin main
+  115  git push -u origin gitignore
+  116  mkdir ~/git-branch
+  117  git init ~/git-branch
+  118  cd ~/git-branch
+  119  git remote add origin https://github.com/GannaGavrylova/git_branch.git
+  120  git log
+  121  curl -o https://raw.githubusercontent.com/aliaskov/bachscripts/master/.gitignore
+  122  curl -O https://github.com/aliaskov/bashscripts/blob/master/.gitignore 
+  123  ls -la
+  124  git add .gitignore
+  125  git commit -m "ADD file gitignore"
+  126  git puch -u origin gitignore
+  127  clear
+  128  cd ~
+  129  cd
+  130  cd ~
+  131  pwd
+  132  git init
+  133  rm -rf .git
+  134  git clone https://github.com/GannaGavrylova/repo12.git
+  135  cd repo
+  136  cd repo12
+  137  git log
+  138  git checkout -b feature
+  139  git status
+  140  echo "Projeck 12" > README.md
+  141  echo "*.exe" > .gitignore
+  142  ls
+  143  ls -la
+  144  git add README.md 
+  145  git add .gitignore 
+  146  git status
+  147  git commit -m "add files" 
+  148  git push -u origin feature
+  149  git push -u origin feature
+  150  git push -u origin feature
+  151  git remote -v
+  152  git pull origin feature
+  153  git add .
+  154  git status
+  155  git log
+  156  git add README.md
+  157  git add .gitignore
+  158  ls -la
+  159  git status
+  160  git commit -m "Add two files"
+  161  git add README.md 
+  162  git add .gitignore 
+  163  git status
+  164  creat
+  165  clear
+  166  rm -rf .git
+  167  cd ~
+  168  clear
+  169  git clone https://github.com/GannaGavrylova/repo12.git
+  170  cd repo12
+  171  git checkout -b feature
+  172  clear
+  173  cd ~
+  174  git clone https://github.com/GannaGavrylova/git_repo12.git
+  175  cd git_repo12
+  176  git checkout -b feature
+  177  echo "Projeck 12" > README.md
+  178  echo "*.exe" > .gitignore
+  179  ls -la
+  180  git add README.md
+  181  git add .gitignore
+  182  git status
+  183  git commit -m "add two files"
+  184  git push -u origin feature
+  185  git commit --amend 
+  186  git push --force origin feature
+  187  git checkout main
+  188  git merge feature
+  189  git push -u origin main
+  190  history > history.txt 
